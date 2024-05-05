@@ -3,11 +3,7 @@
 ## Overview
 This repository contains scripts for interfacing with multiple I2C devices. It includes scripts for using multiple VL53L0X Time-of-Flight (ToF) sensors as well as MPU6050 sensors.
 
-
 demo video:[![WhatsApp Image 2024-05-05 at 18 29 51_886df5ed](https://github.com/Ashutoshss/MultiI2CDevices/assets/103228643/9d244de2-422c-45a3-a185-540dd8abfc97)
-](https://youtu.be/zLPeTh2IeD8?si=r3Zhy_QrlO2PhxwH)
-
-demo video:[![WhatsApp Image 2024-05-05 at 18 26 33_0a1ce4b4](https://github.com/Ashutoshss/MultiI2CDevices/assets/103228643/a17b3859-3ecc-4776-a06c-f04d85d73901)
 ](https://youtu.be/zLPeTh2IeD8?si=r3Zhy_QrlO2PhxwH)
 
 ## Dependencies
