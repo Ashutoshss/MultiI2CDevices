@@ -19,9 +19,3 @@ I will definately add more stuff to this repo in context of I2C Communication us
 
 ## Installation
 The Adafruit libraries can be installed through the Arduino IDE's Library Manager. Navigate to Sketch > Include Library > Manage Libraries, then search for and install the "Adafruit_VL53L0X" and "Adafruit MPU6050" libraries.
-
-## Contributing
-Contributions are welcome! Please read the contributing guidelines before making any changes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
